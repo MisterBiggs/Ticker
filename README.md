@@ -1,0 +1,1 @@
+Raspberry Pi powered LED ticker using gspread and rpi-rgb-led-matrix all in Python 3
